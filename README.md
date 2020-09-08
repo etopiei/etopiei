@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a chess speed-running app + a gemini server
+- 🔭 I’m currently working on a sudoku solver
 - 🌱 I’m currently learning F#, Rust
 - 📫 How to reach me: me.etopiei@gmail.com
 
