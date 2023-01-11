@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a capsule wardrobe builder and RSS feed tool.
-- 🌱 I’m currently learning about Elixir + Phoenix.
+- 🌱 I’m currently learning about Elixir + Phoenix, and Ocaml
 - ❤️ My favourite tech right now is: Svelte, Rust, Typescript, Python, Elixir
 - 📫 How to reach me: me.etopiei@gmail.com
 
