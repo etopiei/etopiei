@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ❤️ My favourite tech right now is: Svelte, Rust, Typescript, Python, Gleam
+- ❤️ My favourite tech right now is: Ocaml, Typescript, Python, Gleam
 - 📫 How to reach me: me.etopiei@gmail.com
 
 Check out some more about me -> https://etopiei.com
